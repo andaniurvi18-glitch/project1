@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(to right, #ff6ec4, #7873f5);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.login-btn{
+    
+    background-color: #ff6ec4;
+    padding: 10px;
+    box-shadow: rgb(10, 10, 10);
+    width: 100%;
+    border:none;
+    cursor: pointer;
+    border-radius: 6px;
+}
+form{
+    background-color: white;
+    height: 300px;
+    width: 400px;
+}
+
+.text
+{
+    border: none;
+    background-color: #d4d2d3;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 200px;
+    padding: 0;
+}
